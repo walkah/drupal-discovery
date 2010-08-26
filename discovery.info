@@ -1,0 +1,4 @@
+; $Id$
+name = Discovery
+description = Implements Open Web (aka webfinger) discovery and host-meta/XRD
+core = 6.x
